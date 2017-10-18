@@ -1,6 +1,6 @@
-package Aula;
+package aula3;
 
 public class No {
     int conteudo;
-    No esquerdo,direito;
+    No proximo;
 }
