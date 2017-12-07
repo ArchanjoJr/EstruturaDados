@@ -1,4 +1,4 @@
-package aula10;
+package aula11;
 
 public class Heapsort {
     public void heapsort(int[]v){
@@ -54,7 +54,5 @@ public class Heapsort {
         v[a] = v[b];
         v[b] = aux;
     }
-
-
 }
 
